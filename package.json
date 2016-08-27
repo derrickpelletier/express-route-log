@@ -1,0 +1,26 @@
+{
+  "name": "express-route-log",
+  "description": "Logs express routes to console",
+  "version": "0.0.1",
+  "author": {
+    "name": "Derrick Pelletier",
+    "email": "derrick@dpelletier.com",
+    "url": "http://dpelletier.com"
+  },
+  "keywords": [
+    "express",
+    "routes",
+    "logger",
+    "debug"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Need to make some tests\" && exit 1"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
