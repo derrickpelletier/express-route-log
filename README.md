@@ -1,5 +1,7 @@
 # Express route log
 
+`npm install express-route-log`
+
 Use to log your Express.js app routes. Nice in a dev environment, just for sanity check or whatever.
 
 Have had the script kicking around for a while in a few projects so just getting it out there.
