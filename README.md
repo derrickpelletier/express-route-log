@@ -17,15 +17,15 @@ Optional second param is a function to use in place of `console.log`.
 const express = require('express');
 const app = express();
 
-app.get('/', (req, ,res, next) => {
+app.get('/', (req, res, next) => {
   //...
 });
 
-app.get('/pageOne', (req, ,res, next) => {
+app.get('/pageOne', (req, res, next) => {
   //...
 });
 
-app.post('/pageTwo', (req, ,res, next) => {
+app.post('/pageTwo', (req, res, next) => {
   //...
 });
 
