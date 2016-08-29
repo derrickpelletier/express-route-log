@@ -7,6 +7,10 @@
     "email": "derrick@dpelletier.com",
     "url": "http://dpelletier.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/derrickpelletier/express-route-log.git"
+  },
   "keywords": [
     "express",
     "routes",
